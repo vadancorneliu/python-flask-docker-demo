@@ -1,2 +1,3 @@
-# python-flask-docker-demo
-A demo flask application that includes logic to connect to the POSTGRES database in Docker Container
+# python-docker-dev
+
+A simple Python app for [Docker's Python Language Guide](https://docs.docker.com/language/python).
